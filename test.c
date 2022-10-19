@@ -5,6 +5,7 @@ int main()
 {
     printf("TEST!\n");
 
+    printf("Added new branch: dev\nMade new change on dev branch\n");
     return 0;
 
 }
